@@ -1,0 +1,14 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}
+
+body {
+  padding: 50px 100px;
+}
+
+h1{
+  font-size: 40px;
+  font-weight: lighter;
+  color: blue;
+}
