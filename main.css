@@ -1,6 +1,7 @@
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
+  background: blue ;
 }
 
 body {
@@ -10,5 +11,10 @@ body {
 h1{
   font-size: 40px;
   font-weight: lighter;
-  color: blue;
+  color: red;
+}
+
+#intro{
+
+	border: 2px solid black;
 }
