@@ -1,7 +1,7 @@
 html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
-  background: blue ;
+  background: default;
 }
 
 body {
@@ -11,10 +11,23 @@ body {
 h1{
   font-size: 40px;
   font-weight: lighter;
-  color: red;
+  color: blue;
 }
 
-#intro{
 
-	border: 2px solid black;
+#about:hover{
+
+	color: red;
+}
+
+#tabs{
+	color: blue;
+	border:2px solid black;;
+	font-size: 200%;
+}
+
+.division{
+  width:90%;
+  height:50px;
+  /*float:left;*/
 }
